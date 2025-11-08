@@ -1,6 +1,6 @@
 # Frontend Mentor - Product Preview Card Component Solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).  
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://aliyasserdev-pixel.github.io/product-preview-card-component-main--2/).  
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ---
@@ -18,7 +18,7 @@ Users should be able to:
 
 ## 🖼 Screenshot
 
-![Preview Screenshot](./screenshot.jpg)
+![Preview Screenshot]()
 
 > 💡 Replace this image with your own screenshot (take it after your site is live and rename it to screenshot.jpg).
 
@@ -26,8 +26,8 @@ Users should be able to:
 
 ## 🌐 Links
 
-- *Solution URL:* [GitHub Repository](https://github.com/aliyassendev-pixel/product-preview-card-component-n)
-- *Live Site URL:* [View Live Site](https://aliyassendev-pixel.github.io/product-preview-card-component-n/)
+- *Solution URL:* [GitHub Repository](https://aliyasserdev-pixel.github.io/product-preview-card-component-main--2/)
+- *Live Site URL:* [View Live Site](https://aliyasserdev-pixel.github.io/product-preview-card-component-main--2/)
 
 ---
 
