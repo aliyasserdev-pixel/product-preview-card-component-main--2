@@ -18,7 +18,7 @@ Users should be able to:
 
 ## 🖼 Screenshot
 
-![Preview Screenshot](./Screenshot/Screenshot%202025-11-08%20195355.png)
+![Preview Screenshot](Screenshot/Screenshot%202025-11-08%20195355.png)
 
 > 💡 Replace this image with your own screenshot (take it after your site is live and rename it to screenshot.jpg).
 
