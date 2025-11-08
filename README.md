@@ -26,7 +26,7 @@ Users should be able to:
 
 ## 🌐 Links
 
-- *Solution URL:* [GitHub Repository](https://aliyasserdev-pixel.github.io/product-preview-card-component-main--2/)
+- *Solution URL:* [GitHub Repository](https://github.com/aliyasserdev-pixel/product-preview-card-component-main--2.git)
 - *Live Site URL:* [View Live Site](https://aliyasserdev-pixel.github.io/product-preview-card-component-main--2/)
 
 ---
