@@ -21,9 +21,6 @@ Users should be able to:
 ![Preview Screenshot-1](Screenshot.png)
 ![Preview Screenshot-2](Screenshot 2025-11-08 195355.png)
 
-
-> 💡 Replace this image with your own screenshot (take it after your site is live and rename it to screenshot.jpg).
-
 ---
 
 ## 🌐 Links
